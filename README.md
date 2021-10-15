@@ -16,6 +16,9 @@ Here you can find various notebooks and bioinformatics scripts organized in fold
 
 ## Kaggle notebooks
 
+All notebooks in this folder can be found in [my Kaggle profile](https://www.kaggle.com/aramos). 
+
 1. 'hpa-challenge-2021': [Human Protein Atlas - Single Cell Classification](https://www.kaggle.com/c/hpa-single-cell-image-classification).
 2. 'g2net-gravitational-wave-detection-2021' : [G2Net Gravitational Wave Detection](https://www.kaggle.com/c/g2net-gravitational-wave-detection). 
 3. 'seti-breakthrough-listen': [SETI Breakthrough Listen - E.T. Signal Search](https://www.kaggle.com/c/seti-breakthrough-listen).
+4. 'leishmaniasis-reported-cases-worldwide-2005-2020': Example notebook, dataset: [Neglected tropical diseases: Leishmaniasis. Reported cases by country 2005-2020](https://www.kaggle.com/aramos/neglected-tropical-diseases-leishmaniasis). 
